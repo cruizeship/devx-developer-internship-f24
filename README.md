@@ -6,6 +6,7 @@
 [Workshop 3: Intro to Databases](https://docs.google.com/presentation/d/1jYT8-JBafw87JD9Fz5zfdYfjBkjaCOoyYK7nsgi8R18/edit?usp=sharing) <br />
 [Workshop 4: Intro to Full Stack Development](https://docs.google.com/presentation/d/1UZgg6AF6cLOguUP_4DE5IH5QcOJ72m6STeUGhdX-oNE/edit?usp=sharing) <br />
 [Workshop 5: Intro to Project + Version Management](https://docs.google.com/presentation/d/1qk1DSL8Yz2qGJlI-5g3SIZD7qBLTWMgdi94ZiF5Nlts/edit?usp=sharing) <br />
+[Workshop 6: Intro to Deployment](https://docs.google.com/presentation/d/1Ct3-yDWZOgdS_37fxdzr7AVaH09lOdTRr6G3ho0CKII/edit?usp=sharing) <br />
 
 ## Github references 
 [Week 1 code](https://github.com/cruizeship/devx-week1) <br />
