@@ -7,6 +7,7 @@
 [Workshop #4: Intro to Full Stack Development](https://docs.google.com/presentation/d/1UZgg6AF6cLOguUP_4DE5IH5QcOJ72m6STeUGhdX-oNE/edit?usp=sharing) <br />
 [Workshop #5: Intro to Project + Version Management](https://docs.google.com/presentation/d/1qk1DSL8Yz2qGJlI-5g3SIZD7qBLTWMgdi94ZiF5Nlts/edit?usp=sharing) <br />
 [Workshop #6: Intro to Deployment](https://docs.google.com/presentation/d/1Ct3-yDWZOgdS_37fxdzr7AVaH09lOdTRr6G3ho0CKII/edit?usp=sharing) <br />
+[Workshop #7: Final Demos](https://docs.google.com/presentation/d/1fhKhDWzmcTXG5Yc3RsC2J_2O957GGgddLGYMm4pyq_Y/edit?usp=sharing) <br />
 
 ## Github references 
 [Week 1 code](https://github.com/cruizeship/devx-week1) <br />
@@ -22,3 +23,5 @@
 ## Recordings
 [Week 3](https://youtu.be/DQGMDa-cVPo) <br />
 [Week 4](https://youtu.be/CKwfwmqX4pw) <br />
+[Week 6](https://youtu.be/4SzQ8JXd7YU) <br />
+[Week 7](https://youtu.be/IlkDXkZyPtk) <br />
