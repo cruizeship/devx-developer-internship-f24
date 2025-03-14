@@ -1,4 +1,4 @@
-# DevX Developer Internship
+# DevX Developer Internship F24
 
 ## Slides
 [Workshop #1: Intro to Frontend Development](https://docs.google.com/presentation/d/1lDnUipO_w7IOAG3IH65Ow3mFRTYg9zXyM5oWztQPCP4/edit?usp=sharing) <br />
